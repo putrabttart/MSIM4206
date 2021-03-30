@@ -10,4 +10,4 @@ Setelah mempelajari modul ini, diharapkan Anda mampu:
 Adapun materi yang akan diberikan pada Modul 1 ini dibagi menjadi 2(dua) kegiatan belajar yaitu:
 
 1. [Kegiatan Belajar 1 : Basis Data](kb-01.md)
-2. [Kegiatan Belajar 2 : Konsep Sistem Basis Data dan DBMS](kb-02/README.md)
+2. [Kegiatan Belajar 2 : Konsep Sistem Basis Data dan DBMS](kb-02.md)
