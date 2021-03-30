@@ -207,7 +207,7 @@ Misalnya akan diisi data pada tabel PASIEN dengan nilai data PasienID: 1, LastNa
 
 ```sql
 INSERT INTO PASIEN (PasienID, LastName, FirstName, Address, City)
-VALUES (1, ‘Suryadi’, ‘Andri’, ‘Jalan Pondok Cabe’, ‘Tangerang Selatan’ );
+VALUES (1, "Suryadi", "Andri", "Jalan Pondok Cabe", "Tangerang Selatan" );
 ```
 
 ### Pengambilan data dari sebuah tabel (SELECT)
@@ -224,7 +224,7 @@ Pengubahan atau manipulasi identik dengan perbaikan isi lembaran arsip yang ada 
 
 ```sql
 UPDATE PASIEN 
-SET Address = 'Jl Pondok Cabe' 
+SET Address = "Jl Pondok Cabe" 
 WHERE PasienID=1;
 ```
 
