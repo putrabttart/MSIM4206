@@ -8,7 +8,7 @@ Mata kuliah basis data merupakan mata kuliah inti yang ditawarkan di Program Stu
 
 Mata kuliah ini berbobot 3 sks yang terdiri dari 9 modul dengan paparan materi teori dan praktikum. Pembahasan teori terdapat pada Modul 1, 2, 4, 5, 7, dan 8. Sedangkan pembahasan praktikum terdapat pada Modul 3, 6, dan 9 dengan menggunakan berbagai tools praktikum diantaranya yEd Graph Editor, X Apache MySQL PHP dan Perl (XAMPP), dan Virtualbox. Adapun perincian pokok bahasan dari 9 modul tersebut terdiri dari sebagai berikut:
 
-- Modul 1 : Basis Data dan Sistem Basis Data
+- [Modul 1 : Basis Data dan Sistem Basis Data](modul-01/README.md)
 - Modul 2 : Model Data
 - Modul 3 : Praktikum Pembuatan Entity Relationship Diagram (ERD)
 - Modul 4 : Normalisasi
