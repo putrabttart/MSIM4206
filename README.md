@@ -1,12 +1,21 @@
-# MSIM4206
-
-Basis Data
-
-## Tinjauan Mata Kuliah
+# Basis Data
 
 Mata kuliah basis data merupakan mata kuliah inti yang ditawarkan di Program Studi Sistem Informasi. Mata kuliah ini secara umum membahas tentang konsep, pengembangan dan penggunaan basis data. Sedangkan materi yang dibahas dalam mata kuliah ini adalah Model Data, Entity Relationship Diagram (ERD), Normalisasi, Structured Query Language (SQL), Manajemen Transaksi, Konsep Basis Data Terdistribusi, dan aplikasi sistem basis data.
 
+## Daftar Isi
+
+- [Basis Data](#basis-data)
+  - [Daftar Isi](#daftar-isi)
+  - [SKS](#sks)
+  - [Modul](#modul)
+  - [Hasil Belajar](#hasil-belajar)
+  - [Peta Kompetensi](#peta-kompetensi)
+
+## SKS
+
 Mata kuliah ini berbobot 3 sks yang terdiri dari 9 modul dengan paparan materi teori dan praktikum. Pembahasan teori terdapat pada Modul 1, 2, 4, 5, 7, dan 8. Sedangkan pembahasan praktikum terdapat pada Modul 3, 6, dan 9 dengan menggunakan berbagai tools praktikum diantaranya yEd Graph Editor, X Apache MySQL PHP dan Perl (XAMPP), dan Virtualbox. Adapun perincian pokok bahasan dari 9 modul tersebut terdiri dari sebagai berikut:
+
+## Modul
 
 - [Modul 1 : Basis Data dan Sistem Basis Data](modul-01/README.md)
 - Modul 2 : Model Data
@@ -17,6 +26,8 @@ Mata kuliah ini berbobot 3 sks yang terdiri dari 9 modul dengan paparan materi t
 - Modul 7 : Manajemen Transaksi dan Konsep Basis Data Terdistribusi
 - Modul 8 : Pengembangan Aplikasi Sistem Basis Data
 - Modul 9 : Praktikum Transaksi dan Basis Data Terdistribusi
+
+## Hasil Belajar
 
 Setelah mempelajari basis data ini, mahasiswa mampu mengorganisir data yang tersimpan secara elektronik pada sebuah sistem komputer sehingga menghasilkan informasi yang berguna. Secara lebih rinci mahasiswa mampu:
 
